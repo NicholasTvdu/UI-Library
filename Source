@@ -314,7 +314,8 @@ do
 			AutoButtonColor = false,
 			Font = Enum.Font.Gotham,
 			Text = "",
-			TextSize = 14
+			TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left
 		}, {
 			utility:Create("TextLabel", {
 				Name = "Title",
